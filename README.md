@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @waleed-ahmed15
+- 👀 I’m interested in girls
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on relationships
+- 📫 How to reach me Snapchat: waleeda.66
