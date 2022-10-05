@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @waleed-ahmed15
-- 👀 I’m interested in
-- 🌱 I’m currently learnin
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me Snapchat: waleeda.66
+- 👀 I’m a flutter developer with 1 year of experience.
+- 🌱 I’m currently a student of BSCS 7th semester as CUI islamabad.
