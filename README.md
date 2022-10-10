@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @waleed-ahmed15
+- 👋 Hi, I’m  waleed-ahmed
 - 👀 I’m a flutter developer with 1 year of experience.
 - 🌱 I’m currently a student of BSCS 7th semester as CUI islamabad.
