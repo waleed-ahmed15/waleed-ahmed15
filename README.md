@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width=400 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-ahmed15&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-ahmed15" /> </p>
 
-- 🌱 I’m currently learning **flutter ,firebase and node js**
-
 - 💬 Ask me about **flutter node express and mongo**
 
 - 📫 How to reach me **waleed.ah755@gmail.com**
