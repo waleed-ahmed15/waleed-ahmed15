@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm waleed ahmed</h1>
 <h3 align="center"Flutter and backend developer</h3>
 <img align="right" alt="coding" width=400 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-ahmed15&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-ahmed15" /> </p>
-📫 How to reach me **waleed.ah755@gmail.com**
-<p align="left">
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-ahmed15&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-ahmed15" /> </p>
+
+- <p align="left"> 📫How to reach me **waleed.ah755@gmail.com**</p>
+
+- <p align="left">
   🌐 <a href="https://waleed-ahmed-devfolio.vercel.app/" target="_blank">Portfolio</a>
 </p>
 <h3 align="left">Connect with me:</h3>
