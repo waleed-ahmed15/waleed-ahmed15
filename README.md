@@ -2,13 +2,10 @@
 <h3 align="center"Flutter and backend developer</h3>
 <img align="right" alt="coding" width=400 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-ahmed15&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-ahmed15" /> </p>
-
-- 💬 Ask me about **flutter node express and mongo**
-
-- 📫 How to reach me **waleed.ah755@gmail.com**
-- <h3 align="left">
-  🌐 <a href="[YOUR_PORTFOLIO_URL_HERE](https://waleed-ahmed-devfolio.vercel.app/)" target="_blank">Portfolio</a>
-  </h3>
+📫 How to reach me **waleed.ah755@gmail.com**
+<p align="left">
+  🌐 <a href="https://waleed-ahmed-devfolio.vercel.app/" target="_blank">Portfolio</a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleedahmed10200@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedahmed10200@gmail.com" height="30" width="40" /></a>
